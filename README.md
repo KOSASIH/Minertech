@@ -1,5 +1,7 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/bcac7697-9b74-42ee-9c08-e0170a18ccce/deploy-status)](https://app.netlify.com/sites/minertech/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e67b6368-6481-4229-a049-0239b3e64c1e/deploy-status)](https://app.netlify.com/sites/minertech/deploys)
+
 [![DeepSource](https://deepsource.io/gh/KOSASIH/Minertech.svg/?label=active+issues&show_trend=true&token=kUKYDS01zfZXevBnfP4YLQO7)](https://deepsource.io/gh/KOSASIH/Minertech/?ref=repository-badge)
+
 ## Welcome to Minertech Pages
 
 You can use the [editor on GitHub](https://github.com/KOSASIH/Minertech/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
