@@ -1,7 +1,5 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/e67b6368-6481-4229-a049-0239b3e64c1e/deploy-status)](https://app.netlify.com/sites/minertech/deploys)
-
 [![DeepSource](https://deepsource.io/gh/KOSASIH/Minertech.svg/?label=active+issues&show_trend=true&token=kUKYDS01zfZXevBnfP4YLQO7)](https://deepsource.io/gh/KOSASIH/Minertech/?ref=repository-badge)
-
 [![Documentation Status](https://readthedocs.org/projects/minertech/badge/?version=latest)](https://minertech.readthedocs.io/en/latest/?badge=latest)
       
 
